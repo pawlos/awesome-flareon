@@ -9,3 +9,4 @@ Collection of writeups from FlareOn competition
 - [Flare-on 4 2017](2017.md)
 - [Flare-on 3 2016](2016.md)
 - [Flare-on 2 2015](2015.md)
+- [Flare-on 1 2014](2014.md)
