@@ -1,6 +1,7 @@
 # awesome-flareon
 Collection of writeups from FlareOn competition
 
+- [Flare-on 12 2025](2025.md)
 - [Flare-on 11 2024](2024.md)
 - [Flare-on 10 2023](2023.md)
 - [Flare-on 9 2022](2022.md)
